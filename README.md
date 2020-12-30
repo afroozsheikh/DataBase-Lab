@@ -1,6 +1,18 @@
 # DataBase-Lab
 My database laboratory homeworks and projects
 
+============================= Lab 1 ====================================
+Learned how to create tables, data insertion and making some queries .
+
+============================= Lab 2 ====================================
+Learned Case and aggregate functions and some queries on adventure works.
+
+============================= Lab 3 ====================================
+Learned about Logins, Roles and Permissions.
+
+============================= Lab 4 ====================================
+Learned about windowing, Grouping sets, rollup , cube ....
+
 ============================= Lab 8 ====================================
 
 Part 1: Implementing a scenario to show that a shared lock prohibits exclusive lock.<br />
