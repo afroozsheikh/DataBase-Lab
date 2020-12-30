@@ -2,16 +2,16 @@
 My database laboratory homeworks and projects
 
 ============================= Lab 1 ====================================
-Learned how to create tables, data insertion and making some queries .
+Learned how to create tables, data insertion and making some queries .<br />
 
 ============================= Lab 2 ====================================
-Learned Case and aggregate functions and some queries on adventure works.
+Learned Case and aggregate functions and some queries on adventure works.<br />
 
 ============================= Lab 3 ====================================
-Learned about Logins, Roles and Permissions.
+Learned about Logins, Roles and Permissions.<br />
 
 ============================= Lab 4 ====================================
-Learned about windowing, Grouping sets, rollup , cube ....
+Learned about windowing, Grouping sets, rollup , cube ....<br />
 
 ============================= Lab 8 ====================================
 
